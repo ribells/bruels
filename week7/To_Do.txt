@@ -1,1 +1,8 @@
-To Do Notes Here
+Week 7 Preparations for Week 8:
+
+1. Create a dynamic rectangle for selecting snow modeling extent
+2. Debug the notebook (for erroneous cropping effect)
+3. Write pixel <-> latlong coordinates conversion functions
+4. Add tourism landmarks with mapping and distance calculations
+5. Use scoring process for suggsting resort facility location(s)
+6. Integrate with future reservoir and economic models
